@@ -1,12 +1,5 @@
-# Google-Chrome-Dino-Game-AI
+# Google-Chrome-Dino-Game-AI For Filthy Python Casuals
 
-It's Finally here
+This fork is all about translating CodeBullet's Dino Game and AI into Python where possible as a learning exercise. 
 
-Sorry about the wait, but here is the source code for my dinosaur Ai video
-get processing https://processing.org/download/
-Some controls:
-press G to show all of the generations where the dinosaurs improved
-press N to show Nothing (to speed up the evolution)
-+ and - adjust the game speed
-
-have fun
+This might be stupid. It might be a massive headache, but why else do we code if not to torture ourselves for no reason?
